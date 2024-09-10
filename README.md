@@ -101,3 +101,8 @@ node app.js
 然後在瀏覽器中訪問來查看註冊頁面。http://localhost:3000/register
 總結
 這是一個基本的Node.js 和Express 註冊系統的實現範例，涵蓋了用戶模型的創建、註冊路由的設置和表單提交的處理。根據需求，可以進一步擴展功能，例如新增密碼加密、驗證用戶輸入等。
+
+https://20240906book.github.io/09110337/
+
+drag-n-drop
+/style.css
